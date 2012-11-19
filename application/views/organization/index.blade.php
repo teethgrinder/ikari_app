@@ -1,0 +1,1 @@
+This is the /Users/niallobrien/Documents/Dev/php_projects/torque_app/application/views/organizations/index.blade.php view
